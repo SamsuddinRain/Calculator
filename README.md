@@ -1,2 +1,2 @@
 # Calculator
-Code of Calculstor site using HTML and CSS language.
+Source Code of Calculator website using HTML,CSS and Programming Languages.
